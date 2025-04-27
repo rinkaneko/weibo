@@ -49,7 +49,7 @@ jobs:
         message: 'update database'
         branch: main
         files: dump.rdb
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GHP_TOKEN }}
         force: true
 
     - name: Checkout output branch

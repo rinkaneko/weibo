@@ -1,6 +1,52 @@
 {
   "tweets": [
     {
+      "_id": "5174583466657547",
+      "mblogid": "PvifUrVVN",
+      "created_at": "2025-06-06 16:58:20",
+      "geo": null,
+      "ip_location": "发布于 上海",
+      "reposts_count": 14,
+      "comments_count": 212,
+      "attitudes_count": 413,
+      "source": "微博网页版",
+      "content": "转发微博\n    <div id=\"0x1cc9af553\" class=\"justified-gallery\">\n        \n    </div>\n    ",
+      "pic_urls": [],
+      "pic_num": 0,
+      "isLongText": false,
+      "url": "https://weibo.com/6201382716/PvifUrVVN",
+      "retweeted": {
+        "_id": "5174251369008700",
+        "mblogid": "Pv9CgBNzC",
+        "created_at": "2025-06-05 18:58:42",
+        "geo": null,
+        "ip_location": "发布于 上海",
+        "reposts_count": 21,
+        "comments_count": 48,
+        "attitudes_count": 111,
+        "source": "微博网页版",
+        "content": "【2025邹佳佳粉丝见面会-青岛站】<br>——佳境•北纬36°N<br><br>黄海欢歌夏正浓，鸥舞晴空候佳音！<br><br>我们满怀欣喜地宣告，这个七月在红瓦映碧波，绿树摇清风的青岛，即将开启一场与海滨的浪漫约会——2025邹佳佳粉丝见面会-青岛站！<br>演员歌手邹佳佳 @佳佳佳_zZ  ，计划于7月12日与粉丝们共度欢乐时光，演绎心动旋律，在北纬36°N的盛夏热情相聚。<br><br>【主题：海滨】<br>当潮汐轻吻沙滩，当日光洒满海岸，当跳跃的音符随浪花翻涌，佳佳将带着她如海风般清新、如阳光般温暖的独特魅力，邀您共赴这片专属的梦想之境。在这里，旋律将化作海鸥翱翔，节奏将融入潮起潮落，让我们在浪花的节拍与心跳的共鸣中，共同绘就这个夏天最闪亮的海滨记忆。<br><br>【时间】<br>2025年7月12日 星期六<br>9:00入场 11:00开始<br><br>【会场】<br>青岛·海天金融中心酒店（宴会厅）<br>青岛市崂山区仙霞岭路29号<br><br>【座位票价福利】<br>S区VIP（包含S区座位票+伴手礼+签售资格）938元<br>A区VIP（包含A区座位票+伴手礼+签售资格）838元<br>B区普票（包含B区座位票+伴手礼+签名海报）338元<br>B区VIP（包含B区座位票+伴手礼+签售资格）738元<br>C区普票（包含C区座位票+伴手礼+签名海报）288元<br>C区VIP（包含C区座位票+伴手礼+签售资格）688元<br>D区普票（包含D区座位票+伴手礼+签名海报）238元<br>D区VIP（包含D区座位票+伴手礼+签售资格）638元<br>座位图见宣传图片<br><br>【购票方式】<br>详见宣传图<br><br>【报名通道】<br>网页链接 http://t.cn/A6etBTC2<br>⏰ 报名截止：2025年6月7日 24:00<br>⏰ 开票时间：2025年6月8日 20:00\n    <div id=\"0x84f5e886\" class=\"justified-gallery\">\n        \n        <a data-fancybox=\"0x84f5e886\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i24nh6f2yhj30u01hcqgy.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i24nh6f2yhj30u01hcqgy.jpg\" >\n        </a>\n    \n        <a data-fancybox=\"0x84f5e886\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i24nh6hyewj30ku2uk7tc.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i24nh6hyewj30ku2uk7tc.jpg\" >\n        </a>\n    \n        <a data-fancybox=\"0x84f5e886\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i24nh6i2q5j30ku2n0e3b.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i24nh6i2q5j30ku2n0e3b.jpg\" >\n        </a>\n    \n    </div>\n    ",
+        "pic_urls": [
+          "008EtgKigy1i24nh6f2yhj30u01hcqgy",
+          "008EtgKigy1i24nh6hyewj30ku2uk7tc",
+          "008EtgKigy1i24nh6i2q5j30ku2n0e3b"
+        ],
+        "pic_num": 3,
+        "isLongText": true,
+        "user": {
+          "_id": "7927091982",
+          "avatar_hd": "https://tvax1.sinaimg.cn/crop.0.0.1009.1009.1024/008EtgKily8hrq7i13l1ej30s10s1gmf.jpg?KID=imgbed,tva&Expires=1749268876&ssig=%2FYtfwRlRZP",
+          "nick_name": "吾合纪娱乐",
+          "verified": true,
+          "mbrank": 0,
+          "mbtype": 0,
+          "verified_type": 2
+        },
+        "url": "https://weibo.com/7927091982/Pv9CgBNzC"
+      },
+      "crawl_time": 1749258077
+    },
+    {
       "_id": "5168502669316229",
       "mblogid": "PsK4aD5zL",
       "created_at": "2025-05-20 22:15:25",
@@ -1132,13 +1178,13 @@
   ],
   "user": {
     "_id": "6201382716",
-    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1749182522&ssig=pd1diNCluv",
+    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1749268885&ssig=99bjPHcRaZ",
     "nick_name": "佳佳佳_zZ",
     "verified": true,
     "description": "工作邮箱：jiajiazishangwu@163.com",
-    "followers_count": 318009,
+    "followers_count": 317987,
     "friends_count": 160,
-    "statuses_count": 540,
+    "statuses_count": 541,
     "gender": "f",
     "location": "上海 黄浦区",
     "mbrank": 1,
@@ -1151,9 +1197,9 @@
     "ip_location": "",
     "sunshine_credit": "信用较好",
     "label_desc": [
-      "昨日阅读数1000+，互动数34",
+      "昨日发博1，阅读数1万+，互动数1263",
       "视频累计播放量120.4万"
     ],
-    "crawl_time": 1749171723
+    "crawl_time": 1749258085
   }
 }

@@ -1178,11 +1178,11 @@
   ],
   "user": {
     "_id": "6201382716",
-    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1750046742&ssig=YLTIV19%2B4X",
+    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1750132981&ssig=F8EI4z0V6V",
     "nick_name": "佳佳佳_zZ",
     "verified": true,
     "description": "工作邮箱：jiajiazishangwu@163.com",
-    "followers_count": 317813,
+    "followers_count": 317803,
     "friends_count": 160,
     "statuses_count": 541,
     "gender": "f",
@@ -1196,7 +1196,11 @@
     "desc_text": "《完蛋！我被美女包围了！》游戏角色肖鹿",
     "ip_location": "",
     "sunshine_credit": "信用较好",
-    "label_desc": [],
-    "crawl_time": 1750035944
+    "label_desc": [
+      "V指数 游戏 55.23分",
+      "昨日阅读数1000+，互动数39",
+      "视频累计播放量120.4万"
+    ],
+    "crawl_time": 1750122182
   }
 }

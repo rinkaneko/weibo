@@ -1178,11 +1178,11 @@
   ],
   "user": {
     "_id": "6201382716",
-    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1750737808&ssig=3vmGCh9qEQ",
+    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1750824235&ssig=Vbgtq2nJtk",
     "nick_name": "佳佳佳_zZ",
     "verified": true,
     "description": "工作邮箱：jiajiazishangwu@163.com",
-    "followers_count": 317696,
+    "followers_count": 317662,
     "friends_count": 160,
     "statuses_count": 541,
     "gender": "f",
@@ -1197,9 +1197,9 @@
     "ip_location": "",
     "sunshine_credit": "信用较好",
     "label_desc": [
-      "昨日阅读数小于1000，互动数8",
+      "昨日阅读数小于1000，互动数5",
       "视频累计播放量120.4万"
     ],
-    "crawl_time": 1750727009
+    "crawl_time": 1750813436
   }
 }

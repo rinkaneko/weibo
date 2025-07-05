@@ -1,6 +1,52 @@
 {
   "tweets": [
     {
+      "_id": "5184647538672201",
+      "mblogid": "Pzw4hAo2d",
+      "created_at": "2025-07-04 11:29:22",
+      "geo": null,
+      "ip_location": "发布于 上海",
+      "reposts_count": 10,
+      "comments_count": 234,
+      "attitudes_count": 484,
+      "source": "iPad Pro",
+      "content": "咦～\n    <div id=\"0x1b0b17543\" class=\"justified-gallery\">\n        \n    </div>\n    ",
+      "pic_urls": [],
+      "pic_num": 0,
+      "isLongText": false,
+      "url": "https://weibo.com/6201382716/Pzw4hAo2d",
+      "retweeted": {
+        "_id": "5184020717240971",
+        "mblogid": "PzfLhunHR",
+        "created_at": "2025-07-02 17:58:35",
+        "geo": null,
+        "ip_location": "发布于 上海",
+        "reposts_count": 18,
+        "comments_count": 34,
+        "attitudes_count": 76,
+        "source": "微博网页版",
+        "content": "【2025邹佳佳粉丝见面会-长沙站】<br><br>湘江奔涌夏意浓，星河漫天待佳期<br><br>我们热切宣告2025邹佳佳粉丝见面会-长沙站，将于8月17日在长沙璀璨启幕！<br>演员、歌手邹佳佳 @佳佳佳_zZ  将闪耀降临！让我们在“蓝色星迹”的指引下，共织这个夏日最闪亮的梦！<br><br>【主题：蓝色星迹】<br>当夜幕低垂，星城浸润于深邃的蓝。我们夜空中最亮的那颗星辰，她的光芒牵引着万千心绪。目光交汇处，是星光与星光的低语；心潮澎湃间，是无言的宇宙共鸣。在这片专属的蓝色梦境里，每一次呼吸都牵引着星轨，每一次悸动都镌刻下永恒的“星迹”。<br><br>汇聚星城，共赴这场盛夏的蓝色星迹之约！<br><br>【时间】<br>2025年8月17日 星期日<br>9:00入场 11:00开始<br>【会场】<br>长沙·易度时光展演中心<br><br>【座位票价福利】<br>S区VIP（包含S区座位票+伴手礼+签售资格）938元<br>A区VIP（包含A区座位票+伴手礼+签售资格）838元<br>B区普票（包含B区座位票+伴手礼+签名海报）338元<br>B区VIP（包含B区座位票+伴手礼+签售资格）738元<br>C区普票（包含C区座位票+伴手礼+签名海报）288元<br>C区VIP（包含C区座位票+伴手礼+签售资格）688元<br>D区普票（包含D区座位票+伴手礼+签名海报）238元<br>D区VIP（包含D区座位票+伴手礼+签售资格）638元<br><br>座位图见宣传图片<br><br>【购票方式】<br>详见宣传图<br><br>【报名通道】<br>网页链接 http://t.cn/A6DTTRLS<br>⏰ 报名截止：2025年7月4日 24:00<br>⏰ 开票时间：2025年7月5日 20:00\n    <div id=\"0x1f3766471\" class=\"justified-gallery\">\n        \n        <a data-fancybox=\"0x1f3766471\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i2ztj5pmlfj30u01hc1je.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i2ztj5pmlfj30u01hc1je.jpg\" >\n        </a>\n    \n        <a data-fancybox=\"0x1f3766471\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i2ztj5tx65j30ku2qdb29.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i2ztj5tx65j30ku2qdb29.jpg\" >\n        </a>\n    \n        <a data-fancybox=\"0x1f3766471\" href=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/original_008EtgKigy1i2ztj5uapqj30ku2s1b29.jpg\">\n            <img no-lazy src=\"https://raw.githubusercontent.com/rinkaneko/weibo/output/output/picture/bmiddle_008EtgKigy1i2ztj5uapqj30ku2s1b29.jpg\" >\n        </a>\n    \n    </div>\n    ",
+        "pic_urls": [
+          "008EtgKigy1i2ztj5pmlfj30u01hc1je",
+          "008EtgKigy1i2ztj5tx65j30ku2qdb29",
+          "008EtgKigy1i2ztj5uapqj30ku2s1b29"
+        ],
+        "pic_num": 3,
+        "isLongText": true,
+        "user": {
+          "_id": "7927091982",
+          "avatar_hd": "https://tvax1.sinaimg.cn/crop.0.0.1009.1009.1024/008EtgKily8hrq7i13l1ej30s10s1gmf.jpg?KID=imgbed,tva&Expires=1751688096&ssig=QYxJOvLAbh",
+          "nick_name": "吾合纪娱乐",
+          "verified": true,
+          "mbrank": 0,
+          "mbtype": 0,
+          "verified_type": 2
+        },
+        "url": "https://weibo.com/7927091982/PzfLhunHR"
+      },
+      "crawl_time": 1751677297
+    },
+    {
       "_id": "5174583466657547",
       "mblogid": "PvifUrVVN",
       "created_at": "2025-06-06 16:58:20",
@@ -1178,13 +1224,13 @@
   ],
   "user": {
     "_id": "6201382716",
-    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1751601791&ssig=1LbvnpD%2B9l",
+    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1751688107&ssig=GxlZbIkTCJ",
     "nick_name": "佳佳佳_zZ",
     "verified": true,
     "description": "工作邮箱：jiajiazishangwu@163.com",
-    "followers_count": 317485,
+    "followers_count": 317487,
     "friends_count": 160,
-    "statuses_count": 541,
+    "statuses_count": 542,
     "gender": "f",
     "location": "上海 黄浦区",
     "mbrank": 8,
@@ -1197,9 +1243,9 @@
     "ip_location": "",
     "sunshine_credit": "信用较好",
     "label_desc": [
-      "昨日阅读数小于1000，互动数8",
+      "昨日发博1，阅读数1万+，互动数1630",
       "视频累计播放量120.4万"
     ],
-    "crawl_time": 1751590992
+    "crawl_time": 1751677308
   }
 }

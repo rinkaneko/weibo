@@ -1224,11 +1224,11 @@
   ],
   "user": {
     "_id": "6201382716",
-    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1752293222&ssig=wXlrHQ2%2FTd",
+    "avatar_hd": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.1024/006LGmVSly8greubbfahhj30u00u0dma.jpg?KID=imgbed,tva&Expires=1752379936&ssig=lf9GQteYYy",
     "nick_name": "佳佳佳_zZ",
     "verified": true,
     "description": "工作邮箱：jiajiazishangwu@163.com",
-    "followers_count": 317437,
+    "followers_count": 317436,
     "friends_count": 160,
     "statuses_count": 542,
     "gender": "f",
@@ -1244,9 +1244,9 @@
     "sunshine_credit": "信用较好",
     "label_desc": [
       "V指数 游戏 54.80分",
-      "昨日阅读数小于1000，互动数22",
+      "昨日阅读数小于1000，互动数21",
       "视频累计播放量120.4万"
     ],
-    "crawl_time": 1752282423
+    "crawl_time": 1752369137
   }
 }
